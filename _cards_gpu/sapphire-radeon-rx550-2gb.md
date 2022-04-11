@@ -1,6 +1,6 @@
 ---
 layout: card
-title: "Sapphire Radeon RX 550 2GB PCIe x16"
+title: "Sapphire AMD Radeon RX 550 2GB PCIe x16"
 picture: "/images/gpu-sapphire-radeon-rx550.jpg"
 functionality: "None (so far)"
 driver_required: "Yes"
